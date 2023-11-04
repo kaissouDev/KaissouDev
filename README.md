@@ -11,9 +11,6 @@ Hello! I'm Kais, an aspiring developer with a keen interest in C++ and game deve
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaissouDev&theme=blue-green)
 
-## 💼 Experiences
-I am constantly learning and experimenting with new technologies. My journey has just begun, and I am excited about the many projects and opportunities ahead.
-
 ---
 
 <div align="center">
