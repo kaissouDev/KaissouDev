@@ -8,14 +8,6 @@ Hello! I'm Kais, an aspiring developer with a keen interest in C++ and game deve
 ## 🎮 My Latest Game
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaissouDev&repo=Eat-The-Mushroom&theme=vue-dark)](https://github.com/KaissouDev/Eat-the-Mushroom)
 
-## 🛠 Skills
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![Raylib](https://img.shields.io/badge/-Raylib-0298c3?style=flat-square&logo=raylib)
-
-## 🌐 Socials
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kaissoudev/)](https://www.linkedin.com/in/kaissoudev/)
-[![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white&link=your_discord_link)](your_discord_link)
-
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaissouDev&theme=blue-green)
 
