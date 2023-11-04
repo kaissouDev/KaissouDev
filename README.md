@@ -1,5 +1,7 @@
 # 👋 Welcome to KaissouDev's GitHub Profile!
 
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaissouDev&theme=blue-green)
 ![KaissouDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaissouDev&show_icons=true&theme=radical)
 
 ## 🚀 About Me
@@ -7,9 +9,6 @@ Hello! I'm Kais, an aspiring developer with a keen interest in C++ and game deve
 
 ## 🎮 My Latest Game
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaissouDev&repo=Eat-The-Mushroom&theme=vue-dark)](https://github.com/KaissouDev/Eat-the-Mushroom)
-
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaissouDev&theme=blue-green)
 
 ---
 
